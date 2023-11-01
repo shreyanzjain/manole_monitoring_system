@@ -7,7 +7,7 @@ import TiltData from "./components/TiltData";
 // import savedData from "./components/Data.json";
 
 function App() {
-  const URL = "192.168.0.102";
+  const URL = "192.168.0.102"; // Your NodeMCU IP ADDRESS
   const [data, setData] = useState([]);
 
   useEffect(() => {
