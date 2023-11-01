@@ -44,3 +44,6 @@ To access the data collected by the NodeMCU server, you can use the following ro
 | Route            | Response Schema          |
 |------------------|--------------------------|
 | `/get/readings/` | `{gas, tilt, distance}` |
+
+#### References
+[Manhole Monitoring System](https://iotdesignpro.com/projects/iot-manhole-monitoring-system)
