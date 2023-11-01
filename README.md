@@ -1,6 +1,9 @@
-# README.md - Server
+# Client
+## Dashboard
+![Screenshot of the dashboard is not laoding, please try again.](./client/screenshots/dashboard.png)
 
-This folder contains the .ino Arduino file that can be uploaded to your NodeMCU.
+# Server
+The server folder contains the .ino Arduino file that can be uploaded to your NodeMCU.
 
 ## System Components
 Our system uses the following components to monitor the conditions inside a manhole and create a server on port 8000 of the NodeMCU:
